@@ -6,7 +6,7 @@ $ npm install git+https://github.com/Nurutomo/svg2gcode.git
 ```
 ## Doc
 ```js
-svg2gcode(svg: String, top: Number, shiftX: Number, shiftY: Number, scale: Number, useMM: Boolean) => String
+svg2gcode(svg: String, top: Number, shiftX: Number, shiftY: Number, scale: Number, useMM: Boolean): String
 ```
 ## Example
 [Running code on repl.it](https://repl.it/@Nurutomo/svg2gcode-example)
